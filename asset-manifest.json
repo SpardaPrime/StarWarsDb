@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/StarWarsDb/static/css/main.1c0515d6.chunk.css",
+    "main.js": "/StarWarsDb/static/js/main.899d4a54.chunk.js",
+    "main.js.map": "/StarWarsDb/static/js/main.899d4a54.chunk.js.map",
+    "runtime-main.js": "/StarWarsDb/static/js/runtime-main.92d38f78.js",
+    "runtime-main.js.map": "/StarWarsDb/static/js/runtime-main.92d38f78.js.map",
+    "static/js/2.ae4a0946.chunk.js": "/StarWarsDb/static/js/2.ae4a0946.chunk.js",
+    "static/js/2.ae4a0946.chunk.js.map": "/StarWarsDb/static/js/2.ae4a0946.chunk.js.map",
+    "index.html": "/StarWarsDb/index.html",
+    "static/css/main.1c0515d6.chunk.css.map": "/StarWarsDb/static/css/main.1c0515d6.chunk.css.map",
+    "static/js/2.ae4a0946.chunk.js.LICENSE.txt": "/StarWarsDb/static/js/2.ae4a0946.chunk.js.LICENSE.txt",
+    "static/media/dead-star.689861e1.png": "/StarWarsDb/static/media/dead-star.689861e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d38f78.js",
+    "static/js/2.ae4a0946.chunk.js",
+    "static/css/main.1c0515d6.chunk.css",
+    "static/js/main.899d4a54.chunk.js"
+  ]
+}
